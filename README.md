@@ -1,3 +1,2 @@
 # Competative-Programming
-This repository contains problem statements.
 Competitive programming is a practical subject that involves solving algorithmic and data structure problems efficiently in a limited amount of time. Competitive programming requires a solid understanding of algorithms, data structures, and problem-solving skills. It is an excellent way to improve coding skills, logical thinking, and time management abilities. Dr. Babasaheb Ambedkar Technological University include competitive programming as a practical subject to prepare students for real-world coding challenges and job interviews.
