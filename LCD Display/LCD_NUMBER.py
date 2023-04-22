@@ -47,4 +47,6 @@ def draw(b, n):
  
     return "\n".join(buffer)
 
-print(draw(4,12345))
+N,M = map(int,input().split())
+
+print(draw(N,M))
